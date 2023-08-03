@@ -1,3 +1,3 @@
 # Good_Questions
 Array Questions
-20,22
+leetcode -1886,832,867
